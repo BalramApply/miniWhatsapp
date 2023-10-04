@@ -1,0 +1,37 @@
+body{
+    margin-left: 20px;
+    background-color: rgb(42, 193, 42);
+}
+
+.chat{
+    background-color: black;
+    padding: 20px;
+    border-radius: 16px;
+    height: 300px;
+    width: 200px;
+    color: white;
+    display: block;
+}
+
+.msg{
+    background-color: dodgerblue;
+    color: white;
+    padding: 5px 15px;
+    border-radius: 16px;
+    font-weight: bolder;
+}
+h3{
+    text-align: center;
+}
+.modi{
+    background-color: dodgerblue;
+    border: none;
+    font-weight: bold;
+}
+.new{
+    padding: 10px 50px;
+    margin: 20px;
+    border-radius: 10px;
+    background-color: rgb(42, 193, 42);
+    font-weight: bolder;
+}
